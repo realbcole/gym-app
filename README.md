@@ -36,6 +36,7 @@ Improve TypeScript skills, gain more front end experience
 - [Framer Motion](https://www.framer.com/motion/introduction/) - Animations
 - [Form Submit](https://formsubmit.co/) - Form Submission
 - [React Anchor Link Smooth Scroll](https://github.com/mauricevancooten/react-anchor-link-smooth-scroll) - Smooth Scrolling
+- [CloudFlare](https://www.cloudflare.com/) - Deployment
 
 ## Screenshots <a name = "screenshots"></a>
 
