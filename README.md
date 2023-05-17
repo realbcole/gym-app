@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center"> Complete gym website (frontend focus)
+<p align="center"> Complete gym website (front end focus)
     <br> 
 </p>
 
@@ -40,12 +40,14 @@ Improve TypeScript skills, gain more front end experience
 ## Screenshots <a name = "screenshots"></a>
 
 DESKTOP
+<br>
 <img src="./public/screenshots/dHome.PNG" alt="Home Page Screenshot (Desktop)">
 <img src="./public/screenshots/dBenefits.PNG" alt="Benefits Page Screenshot (Desktop)">
 <img src="./public/screenshots/dClasses.PNG" alt="Classes Page Screenshot (Desktop)">
 <img src="./public/screenshots/dContact.PNG" alt="Contact Page Screenshot (Desktop)">
 
 MOBILE
+<br>
 <img src="./public/screenshots/mHome.PNG" alt="Home Page Screenshot (Mobile)">
 <img src="./public/screenshots/mBenefits.PNG" alt="Benefits Page Screenshot (Mobile)">
 <img src="./public/screenshots/mClasses.PNG" alt="Classes Page Screenshot (Mobile)">
